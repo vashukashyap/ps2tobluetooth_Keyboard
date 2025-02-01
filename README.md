@@ -12,4 +12,4 @@ keyboard ground ->> arduino nano - Gnd
 keyboard data wire ->> arduino nano - A3  
 keyboard clock wire ->> arduino nano - A4  
 
-( if you dont know which is color wire is data or clock, google it or an easy way open your keyboard and check it PCB. )
+(if you dont know which is color wire is data or clock, google it or an easy way open your keyboard and check it PCB.)
